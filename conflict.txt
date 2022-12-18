@@ -1,1 +1,2 @@
 this is for conflict situation
+user2->changes made by user2
