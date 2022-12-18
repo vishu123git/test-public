@@ -1,1 +1,2 @@
 Testing of conflict situation
+user1-> changes made by user1
